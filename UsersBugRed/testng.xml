@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/aruti/Desktop/QA AUTO/10/UsersBugRed"><classes><class name="jenkins.Login"><methods><include name="LoginOnlyWithLoginfield"/><include name="LoginOnlywithPassfield"/><include name="WithEmptyFields"/><include name="ResetData"/><include name="WrongUserIdandPass"/><include name="RequiredUseridField"/><include name="RequiredPassidField"/></methods></class></classes></test></suite>
